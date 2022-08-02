@@ -1,25 +1,29 @@
-## Welcome to GitHub Pages
+## Miscellaneous Pictures That Describe My Summer
 
-You can use the [editor on GitHub](https://github.com/NiamEdralin/Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In this website, I will be putting pictures of my first summer in college! I'm so happy to have met so many new friends who are so inspiring and down to earth. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Week 1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Week 2 
+
+
+
 ## Header 2
+
+
+
+
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
