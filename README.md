@@ -1,4 +1,4 @@
-## Miscellaneous Pictures That Describe My Summer
+## Summer Photo Dump 
 
 In this website, I will be putting pictures of my first summer in college! I'm so happy to have met so many new friends who are so inspiring and down to earth. 
 
@@ -22,12 +22,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## Header 2
+## Week 3
 
 
 
 
-### Header 3
+### Week 4
 
 
 
