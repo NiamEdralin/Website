@@ -5,13 +5,13 @@ In this website, I will be putting pictures of my first summer in college! I'm s
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Week 1
+<img width="530" alt="Screen Shot 2022-08-02 at 10 41 22 AM" src="https://user-images.githubusercontent.com/110421032/182439278-19721539-f345-4086-849e-0ed793d351ca.png">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Week 2 
+
+
+### Week 2 
 
 
 
